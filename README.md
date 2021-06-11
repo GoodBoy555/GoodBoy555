@@ -1,4 +1,4 @@
-<h1>Hey! I’m Dan</h1>
+<h1>Hey! I’m Daniel</h1>
 
 <pre>
 I’m interested Game Development, Virtual Machines, Database Administration anything Proramming related
