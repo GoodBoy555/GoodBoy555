@@ -6,5 +6,5 @@ learning: C# and python
 collaborate: on a Game Jam
 
 discord:Agaricus#6133 
-mailto:nels@bassmonkey.com
+mailto:
 </pre>
